@@ -1,0 +1,5 @@
+{
+  "token": "<yourbottoken>",
+  "newServer": "<ServerToMigrateFrom>",
+  "oldServer": "<ServerToMigrateTo>"
+}
